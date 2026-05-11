@@ -1,0 +1,20 @@
+{
+  "name": "fintel-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "axios": "^1.7.2",
+    "echarts": "^5.5.1",
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3"
+  },
+  "devDependencies": {
+    "vite": "^5.3.1"
+  }
+}

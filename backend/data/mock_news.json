@@ -1,0 +1,242 @@
+[
+  {
+    "title": "宁德时代储能业务订单持续增长",
+    "content": "公司储能业务订单持续增长，市场预期改善，机构认为新能源产业链景气度有望修复。",
+    "source": "模拟财联社",
+    "publish_time": "2026-05-11 09:30:00",
+    "url": "https://mock.news/001",
+    "stock_code": "300750",
+    "stock_name": "宁德时代",
+    "industry": "新能源"
+  },
+  {
+    "title": "宁德时代储能订单增长，新能源板块情绪升温",
+    "content": "多家媒体报道，宁德时代储能业务新增订单明显，公司未来盈利预期改善。",
+    "source": "模拟东方财富",
+    "publish_time": "2026-05-11 09:35:00",
+    "url": "https://mock.news/002",
+    "stock_code": "300750",
+    "stock_name": "宁德时代",
+    "industry": "新能源"
+  },
+  {
+    "title": "比亚迪发布新车型，智能驾驶配置升级",
+    "content": "比亚迪新车型搭载高阶智能驾驶功能，有望提升新能源汽车市场竞争力。",
+    "source": "模拟同花顺",
+    "publish_time": "2026-05-11 10:05:00",
+    "url": "https://mock.news/003",
+    "stock_code": "002594",
+    "stock_name": "比亚迪",
+    "industry": "新能源汽车"
+  },
+  {
+    "title": "比亚迪新车型上市，智能驾驶成为卖点",
+    "content": "公司新车型发布后受到市场关注，智能化配置被认为是本次产品升级重点。",
+    "source": "模拟新浪财经",
+    "publish_time": "2026-05-11 10:10:00",
+    "url": "https://mock.news/004",
+    "stock_code": "002594",
+    "stock_name": "比亚迪",
+    "industry": "新能源汽车"
+  },
+  {
+    "title": "贵州茅台召开股东大会，强调长期稳健经营",
+    "content": "公司管理层表示将坚持品牌建设和渠道优化，白酒行业龙头优势仍较明显。",
+    "source": "模拟证券时报",
+    "publish_time": "2026-05-11 10:20:00",
+    "url": "https://mock.news/005",
+    "stock_code": "600519",
+    "stock_name": "贵州茅台",
+    "industry": "白酒"
+  },
+  {
+    "title": "中芯国际先进制程研发取得阶段性进展",
+    "content": "半导体国产替代持续推进，相关公司研发投入保持高位。",
+    "source": "模拟财联社",
+    "publish_time": "2026-05-11 10:40:00",
+    "url": "https://mock.news/006",
+    "stock_code": "688981",
+    "stock_name": "中芯国际",
+    "industry": "半导体"
+  },
+  {
+    "title": "半导体国产替代加速，中芯国际研发取得进展",
+    "content": "市场关注半导体产业链国产替代机会，中芯国际先进制程研发被多方提及。",
+    "source": "模拟东方财富",
+    "publish_time": "2026-05-11 10:45:00",
+    "url": "https://mock.news/007",
+    "stock_code": "688981",
+    "stock_name": "中芯国际",
+    "industry": "半导体"
+  },
+  {
+    "title": "药明康德回应海外监管不确定性",
+    "content": "公司表示将持续关注海外政策变化。市场认为海外监管因素可能带来一定风险。",
+    "source": "模拟新浪财经",
+    "publish_time": "2026-05-11 11:00:00",
+    "url": "https://mock.news/008",
+    "stock_code": "603259",
+    "stock_name": "药明康德",
+    "industry": "医药"
+  },
+  {
+    "title": "药明康德面临海外政策不确定性，机构提示风险",
+    "content": "医药外包行业受到海外监管政策扰动，相关公司短期风险偏高。",
+    "source": "模拟财联社",
+    "publish_time": "2026-05-11 11:03:00",
+    "url": "https://mock.news/009",
+    "stock_code": "603259",
+    "stock_name": "药明康德",
+    "industry": "医药"
+  },
+  {
+    "title": "招商银行发布零售金融数字化升级计划",
+    "content": "招商银行将进一步推进零售金融和财富管理业务数字化建设，提升服务效率。",
+    "source": "模拟东方财富",
+    "publish_time": "2026-05-11 11:20:00",
+    "url": "https://mock.news/010",
+    "stock_code": "600036",
+    "stock_name": "招商银行",
+    "industry": "银行"
+  },
+  {
+    "title": "人工智能算力需求上升，服务器产业链受关注",
+    "content": "AI 大模型应用推动算力基础设施扩张，服务器、芯片、液冷等方向受到资金关注。",
+    "source": "模拟同花顺",
+    "publish_time": "2026-05-11 11:30:00",
+    "url": "https://mock.news/011",
+    "stock_code": "000977",
+    "stock_name": "浪潮信息",
+    "industry": "人工智能"
+  },
+  {
+    "title": "浪潮信息受益 AI 算力需求提升",
+    "content": "服务器产业链景气度提升，算力基础设施建设推动相关公司订单增长预期。",
+    "source": "模拟财联社",
+    "publish_time": "2026-05-11 11:40:00",
+    "url": "https://mock.news/012",
+    "stock_code": "000977",
+    "stock_name": "浪潮信息",
+    "industry": "人工智能"
+  },
+  {
+    "title": "万科公告债务展期方案，地产行业风险仍受关注",
+    "content": "公司公告债务展期安排，市场关注地产企业现金流与信用风险。",
+    "source": "模拟证券时报",
+    "publish_time": "2026-05-11 13:00:00",
+    "url": "https://mock.news/013",
+    "stock_code": "000002",
+    "stock_name": "万科A",
+    "industry": "房地产"
+  },
+  {
+    "title": "地产公司债务问题继续发酵，万科披露展期安排",
+    "content": "地产行业销售恢复仍不稳定，债务压力和信用风险成为市场关注点。",
+    "source": "模拟新浪财经",
+    "publish_time": "2026-05-11 13:05:00",
+    "url": "https://mock.news/014",
+    "stock_code": "000002",
+    "stock_name": "万科A",
+    "industry": "房地产"
+  },
+  {
+    "title": "紫金矿业铜金产量增长，资源品价格支撑业绩",
+    "content": "公司铜金产量维持增长，资源品价格处于高位，对公司盈利形成支撑。",
+    "source": "模拟东方财富",
+    "publish_time": "2026-05-11 13:20:00",
+    "url": "https://mock.news/015",
+    "stock_code": "601899",
+    "stock_name": "紫金矿业",
+    "industry": "有色金属"
+  },
+  {
+    "title": "有色金属板块活跃，紫金矿业产量增长受关注",
+    "content": "黄金和铜价格维持强势，资源品龙头公司受到市场关注。",
+    "source": "模拟同花顺",
+    "publish_time": "2026-05-11 13:24:00",
+    "url": "https://mock.news/016",
+    "stock_code": "601899",
+    "stock_name": "紫金矿业",
+    "industry": "有色金属"
+  },
+  {
+    "title": "隆基绿能宣布组件价格调整，光伏行业竞争加剧",
+    "content": "光伏组件价格继续承压，行业竞争加剧可能影响企业盈利能力。",
+    "source": "模拟财联社",
+    "publish_time": "2026-05-11 13:50:00",
+    "url": "https://mock.news/017",
+    "stock_code": "601012",
+    "stock_name": "隆基绿能",
+    "industry": "光伏"
+  },
+  {
+    "title": "光伏组件价格调整，隆基绿能盈利压力引关注",
+    "content": "市场认为光伏产业链短期仍面临价格竞争和盈利修复压力。",
+    "source": "模拟东方财富",
+    "publish_time": "2026-05-11 13:55:00",
+    "url": "https://mock.news/018",
+    "stock_code": "601012",
+    "stock_name": "隆基绿能",
+    "industry": "光伏"
+  },
+  {
+    "title": "中国平安推进医疗养老生态建设",
+    "content": "公司持续推进保险、医疗和养老服务协同，长期业务结构有望优化。",
+    "source": "模拟新浪财经",
+    "publish_time": "2026-05-11 14:10:00",
+    "url": "https://mock.news/019",
+    "stock_code": "601318",
+    "stock_name": "中国平安",
+    "industry": "保险"
+  },
+  {
+    "title": "工业富联 AI 服务器订单增长",
+    "content": "AI 服务器需求提升带动公司相关业务订单增长，电子制造产业链景气度改善。",
+    "source": "模拟财联社",
+    "publish_time": "2026-05-11 14:30:00",
+    "url": "https://mock.news/020",
+    "stock_code": "601138",
+    "stock_name": "工业富联",
+    "industry": "电子制造"
+  },
+  {
+    "title": "海康威视发布智能物联新品",
+    "content": "公司发布智能物联新品，安防和 AIoT 场景持续拓展。",
+    "source": "模拟同花顺",
+    "publish_time": "2026-05-11 14:40:00",
+    "url": "https://mock.news/021",
+    "stock_code": "002415",
+    "stock_name": "海康威视",
+    "industry": "计算机视觉"
+  },
+  {
+    "title": "三一重工海外订单增长，工程机械出口改善",
+    "content": "海外市场需求提升，公司工程机械出口订单增长，行业景气度边际改善。",
+    "source": "模拟东方财富",
+    "publish_time": "2026-05-11 14:50:00",
+    "url": "https://mock.news/022",
+    "stock_code": "600031",
+    "stock_name": "三一重工",
+    "industry": "工程机械"
+  },
+  {
+    "title": "牧原股份猪价回暖，养殖盈利预期改善",
+    "content": "生猪价格回暖，养殖企业盈利预期改善，但成本控制仍是关键。",
+    "source": "模拟证券时报",
+    "publish_time": "2026-05-11 15:00:00",
+    "url": "https://mock.news/023",
+    "stock_code": "002714",
+    "stock_name": "牧原股份",
+    "industry": "农牧养殖"
+  },
+  {
+    "title": "中国移动算力网络建设提速",
+    "content": "公司持续推进算力网络和云业务建设，数字经济基础设施投入提升。",
+    "source": "模拟新浪财经",
+    "publish_time": "2026-05-11 15:10:00",
+    "url": "https://mock.news/024",
+    "stock_code": "600941",
+    "stock_name": "中国移动",
+    "industry": "通信运营"
+  }
+]
