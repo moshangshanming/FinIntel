@@ -22,7 +22,7 @@ FinIntel/
 ├── scripts/       启动脚本
 └── README.md      项目总说明
 ```
-预期项目详细结构
+项目详细结构
 ```
 FinIntel/
 ├── backend/                         # 后端项目
