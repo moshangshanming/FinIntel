@@ -1,0 +1,20 @@
+FinIntel 项目提交说明
+
+1. 后端代码位于 backend 文件夹。
+2. 前端代码位于 frontend 文件夹。
+3. 报告和设计文档位于 docs 文件夹。
+4. 后端启动方式：
+   cd backend
+   pip install -r requirements.txt
+   python -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
+5. 前端启动方式：
+   cd frontend
+   npm install
+   npm run dev
+6. Swagger 接口文档地址：
+   http://127.0.0.1:8000/docs
+7. 前端页面地址：
+   http://127.0.0.1:5173
+
+说明：
+本版本为课程提交初版，使用 SQLite 和模拟新闻数据，便于老师本地运行和小组成员继续开发。
